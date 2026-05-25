@@ -3,10 +3,38 @@ Hello !! I'm Gugashini Sathyamoorthi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Network+Engineer;FrontEnd+Developer)](https://git.io/typing-svg)
 
 
-💻 Network Engineering Student  
-🚀 FrontEnd Developer
-🌍 Sri Lanka  
-🔥 Passionate about Web Development
+# 💫 About Me
+
+```json
+{
+  "name": "Gugashini Sathyamoorthi",
+  "role": "BSc (Hons) Computer Networks Undergraduate",
+  "location": "Sri Lanka",
+
+  "focus": [
+    "FrontEnd Development",
+    "Web Application Development",
+    "UI/UX Design",
+     "API Design & System Communication",
+    "Computer Networks & System Communication"
+  ],
+
+"currently_learning": [
+  "TypeScript",
+  "Microservices",
+  "DevOps & Kubernetes",
+  "Computer Networks",
+  "Network Security Basics"
+]
+
+  "open_to": [
+    "Internships",
+    "Freelancing",
+    "Collaborations",
+    "Open Source Projects"
+  ]
+}
+```
 
 
 ## 💻 Tech Stack
