@@ -115,9 +115,9 @@ Hello !! I'm Gugashini Sathyamoorthi
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://haashini2003.github.io/portfolio/">
-    <img src="https://skillicons.dev/icons?i=htmx" />
-  </a>
+ <a href="https://haashini2003.github.io/portfolio/">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="48" />
+</a>
 
 
 </p>
